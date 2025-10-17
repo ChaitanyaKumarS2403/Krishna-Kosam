@@ -141,3 +141,7 @@ Sustainable sourcing also encompasses the development of low-carbon production p
 
 -  Gas Fermentation: A promising pathway is the use of gas fermentation, which sources low-carbon chemicals and fuels from renewable biomass or, more effectively, from industrial and municipal waste streams [44]. The advantage of gasification is that it makes all carbon in the waste stream available for product generation, in contrast to partial biomass conversion methods [44]. 
 -  Bioconversion: Gasification produces synthesis gas (syngas), composed of carbon monoxide (CO), carbon dioxide (CO2), and hydrogen (H2) [44]. A key focus for technological scale-up is the bioconversion of this syngas using anaerobic gas-fermenting bacteria (acetogens), a strategy designed to limit gaseous atmospheric release and effectively recycle carbon [44].
+
+
+
+![Image Testing](https://png.pngtree.com/png-vector/20220826/ourlarge/pngtree-i-love-you-sticker-design-with-heart-and-shadow-png-image_236372.png)
